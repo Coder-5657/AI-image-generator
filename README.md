@@ -1,2 +1,2 @@
-# AI-imgae-generator
+# AI-image-generator
 AI IMAGE GENERATOR USING OPENAI API-KEY
